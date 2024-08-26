@@ -1,4 +1,4 @@
-# CS 4110/6110: Introduction to Knowledge Engineering
+# CS 4110/6110: Introduction to Software Engineering
 
 ## Motivation
 Introduction to the concepts of Software Engineering. Software qualities, development life-cycle models, requirements analysis, semi-formal and formal systems modeling, system design, testing, and project management techniques. Case studies and a course project serve as examples illustrating the software engineering process. Integrated Writing course.
