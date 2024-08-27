@@ -48,6 +48,7 @@ E-mail: [sodergren.2@wright.edu](mailto:sodergren.2@wright.edu)
 - Office Hours (Virtual): By appointment.
 ### TA Joey
 - Office (Physical): Joshi 392
+- Office (Virtual): <https://wright.webex.com/meet/sodergren.2>
 - Office Hours (In-Person):
   - Monday: 1:00 pm - 3:00 pm
   - Wednesday: 1:00 pm - 3:00 pm
