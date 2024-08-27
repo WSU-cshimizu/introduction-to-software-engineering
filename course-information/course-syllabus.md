@@ -7,7 +7,7 @@ Introduction to the concepts of Software Engineering. Software qualities, develo
 Students are expected to have a working understanding of programming, including data structures and their algorithms and basic propositional logic.
 
 ## Course Learning Objectives
-Students will be exposed to topics around: 
+Students will be exposed to topics around:
 * Communicating about Software
   * Different layers of documentation
   * Team & Project Management
@@ -29,19 +29,19 @@ Students will be exposed to topics around:
 
 
 ## Instructor
-Name: Dr. Cogan Shimizu<br>
-E-mail: [cogan.shimizu@wright.edu](cogan.shimizu@wright.edu)<br>
+Name: Dr. Cogan Shimizu\
+E-mail: [cogan.shimizu@wright.edu](mailto:cogan.shimizu@wright.edu)\
 Website: <https://kastle.cs.wright.edu/>
 
 ## Office and Communications
-Office (Physical): Joshi 391<br>
+Office (Physical): Joshi 391\
 Office (Virtual): <https://wright.webex.com/meet/cogan.shimizu>
 
-Office Hours (In-Person): Tuesdays & Thursdays 10:00 am - 11:00 am;Wednesdays 15:00 pm - 17:00 pm <br>
+Office Hours (In-Person): Tuesdays & Thursdays 10:00 am - 11:00 am;Wednesdays 15:00 pm - 17:00 pm\
 Office Hours (Virtual): By appointment.
 
 ## Class Hours
-Meeting Hours: 11:00 am - 12:20 pm<br>
+Meeting Hours: 11:00 am - 12:20 pm\
 Meeting Days: Tuesday and Thursday
 
 ## Course Materials
@@ -102,5 +102,5 @@ Aside from posted extra credit (if any), there will be no opportunities to impro
 ## Academic Integrity
 Discussion of course content with other students can be very useful to your learning and is encouraged. However, it is expected that work you turn in, your midterm, and your final exam will be completed on a purely individual basis. Students may discuss general concepts with one another, but may not, under any circumstances, work together on the actual implementation of any course assignment or the creation of report(s) turned into the instructor. Also, it should go without saying that quizzes and the final exam should represent your individual effort. A good rule of thumb is this: If you’re having a discussion on basic concepts and your shared understanding of those concepts, you’re fine. If you’re actually writing report text and/or code in the presence of and with direct contribution from another person you’re not fine. If you are including text and/or code written by a third party (with the exception of specific support libraries approved by the instructor), you are definitely NOT fine. If you have ANY questions about what constitutes allowable collaboration or code library use, please contact the instructor for clarification. He will be happy to help you determine if your use of a specific library or package is acceptable or if your intended collaboration with another student crosses any ethical lines. In addition to the above policies related to collaboration stated in this syllabus, students are expected to at all times comply with the Wright State University Code of Student Conduct and in particular the portions pertaining to Academic Integrity.
 
-## Student Resources 
+## Student Resources
 If you are a student with a disability who requires special accommodations to fully participate in this course, you are encouraged to contact the WSU Office of Disability Services (<http://www.wright.edu/disability-services>). The course instructor will work enthusiastically with that office to ensure you receive appropriate accommodations to ensure full access to materials and assessment instruments.
