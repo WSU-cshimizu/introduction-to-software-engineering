@@ -51,7 +51,7 @@ E-mail: [sodergren.2@wright.edu](mailto:sodergren.2@wright.edu)
 - Office Hours (In-Person):
   - Monday: 1:00 pm - 3:00 pm
   - Wednesday: 1:00 pm - 3:00 pm
-- Offic Hours (Virtual): By appointment.
+- Office Hours (Virtual): Fridays, by appointment.
 
 ## Class Hours
 Meeting Hours: 11:00 am - 12:20 pm\
