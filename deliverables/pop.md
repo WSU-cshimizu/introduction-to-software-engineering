@@ -18,12 +18,12 @@ This will be submitted via your GitHub repository in your `deliverables` directo
 ## Rubric
 | Points | Metric                                            |
 | ------ | ------------------------------------------------- |
-| 2      | Is your justification convincing?                 |
-| 2      | "break it down"                                   |
-| 1      | "give me some glue"                               |
-| 1      | How will it be implemented?                       |
-| 1      | Justify your choice.                              |
-| 1      | Predicted methodology present?                    |
 | 1      | Does it look nice?                                |
 | 1      | Does it contain the information that's solicited? |
+| 1      | &#9; Predicted methodology present?               |
+|        | Is your justification convincing?                 |
+| 3      | &#9; Are the components well-described?           |
+| 2      | &#9; Is the architecture well-described?          |
+| 1      | How will it be implemented?                       |
+| 1      | Justify your choice.                              |
 | **10** | **Total**                                         |
