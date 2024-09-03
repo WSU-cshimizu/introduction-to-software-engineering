@@ -2,7 +2,7 @@
 * Cogan Shimizu
 
 ## The Basics
-**Engineering Processes (1/2)
+**Engineering Processes (1/2)**
 * Engineering processes define approaches to problem-solving.
 * An engineering process is a common series of steps that engineers follow to create functional products.
 * A mature engineering process produces predictable results every time. For example, it is not acceptable for 1% of bridges projects to fail.
@@ -17,7 +17,7 @@
 * The engineering work still needs to be performed!
 
 ## Waterfall Development
-![image](../assets/waterfall-development)
+![image](../assets/waterfall-development.jpg)
 
 * organized into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialization of tasks
 * waterfall development model originated in the manufacturing and construction industries (probably)
