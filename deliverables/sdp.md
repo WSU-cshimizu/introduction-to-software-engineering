@@ -1,15 +1,15 @@
 # Software Development Plan
 
 ## Requirements
-* **Administrative**		
+* **Administrative**
   * Meeting Location(s)
   * Meeting Times
   * Communication Plan (Meeting Structure & Cadence)
   * Project Managment
-* **SDLC Details**		
+* **SDLC Details**
 * Timeline (Dates for)
   * MVSs
-  * Milestones (i.e., "Checkins")
+  * Milestones (i.e., "Check-ins")
   * Requirement Specification
   * Design Specification
   * Gannt Chart
@@ -18,11 +18,11 @@
 This will be submitted via your GitHub repository in your `deliverables` directory.
 
 ## Rubric
-| points | metric                                            |
+| Points | Metric                                            |
 | ------ | ------------------------------------------------- |
 | 2      | Does it look nice? (Presentation, Gannt Chart)    |
 |        | Does it contain the information that's solicited? |
 | 2      | &#9; Administrative                               |
 | 4      | &#9; Timeline                                     |
 | 2      | Justify CP and PM choices.                        |
-| **10** | **total**                                         |
+| **10** | **Total**                                         |
