@@ -5,14 +5,14 @@
   * Meeting Location(s)
   * Meeting Times
   * Communication Plan (Meeting Structure & Cadence)
-  * Project Managment
+  * Project Management
 * **SDLC Details**
 * Timeline (Dates for)
   * MVSs
   * Milestones (i.e., "Check-ins")
   * Requirement Specification
   * Design Specification
-  * Gannt Chart
+  * Gantt Chart
 
 ## Submission Details
 This will be submitted via your GitHub repository in your `deliverables` directory.
@@ -20,7 +20,7 @@ This will be submitted via your GitHub repository in your `deliverables` directo
 ## Rubric
 | Points | Metric                                            |
 | ------ | ------------------------------------------------- |
-| 2      | Does it look nice? (Presentation, Gannt Chart)    |
+| 2      | Does it look nice? (Presentation, Gantt Chart)    |
 |        | Does it contain the information that's solicited? |
 | 2      | &#9; Administrative                               |
 | 4      | &#9; Timeline                                     |
