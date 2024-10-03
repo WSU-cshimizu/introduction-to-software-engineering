@@ -9,6 +9,7 @@ There are different diagrams that you may use, the first two were covered in cla
 * (Control) Flow Chart
 * UML Diagram
 * Use-case Models or Diagrams
+* UI Mock-ups (e.g., Moqup, Figma, Canva)
 
 ## Submission Details
 * This assignment should be placed in the team repository in the `deliverables` directory.
