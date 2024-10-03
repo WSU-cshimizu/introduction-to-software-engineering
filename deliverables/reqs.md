@@ -3,7 +3,7 @@
 ## Requirements
 These are provided as _minima_ for the document. It is likely that in order to be comprehensive, you will want more requirements.
 * Two _top-level_ requirements per user story.
-* One _top-level_ requirement per graduate student that pertains to testing. 
+* One _top-level_ requirement per graduate student that pertains to one of the testing user stories. 
 
 Recall that a _top-level_ requirement should have _mid/low-level_ requirements beneath it that narrow the scope.
 
