@@ -13,18 +13,18 @@ These are very intertwined, as the design and implementation of a _user interfac
   - Signifiers: perceptible cues that designers include in (eg) interfaces so users can easily discover what to do.
 - The look and feel of the interface, 
 - Visual design elements like colors, typography, buttons, and layout.
-- Aiming for aesthetically pleasing and consistent
+- Aiming for aesthetically pleasing and consistent design
 
 **UI (User _Interaction_)**
 - Includes actions or gestures like clicking, swiping, and typing, which are responses to affordances.
 - Deals with interactive elements like buttons, gestures, and response times.
 - Concerned with making interactions smooth, responsive, and intuitive.
-- Aims to reduce user effort and make completing tasks straightforward.
+- Reducing user effort and make completing tasks straightforward.
 
 **UX (User _Experience_)**  
 - Deals with the functionality, usability, and satisfaction of the interaction.
 - Concerned with user journey, accessibility, and problem-solving.
-- Aims to create a seamless, enjoyable, and meaningful user experience.
+- Creating a seamless, enjoyable, and meaningful user experience.
 
 ## Human-Computer Interaction (HCI)
 - Human-Computer Interaction focuses on understanding how a human interprets and interacts with a computer.
@@ -32,8 +32,8 @@ These are very intertwined, as the design and implementation of a _user interfac
 - This is a broad field of study, and frequently out of scope for the "normal" developer, but it is generally a good idea to keep certain things in mind.
   - Interdisciplinary field focusing on how people interact with computers and technology.
   - Integrates principles from psychology, design, computer science, and engineering.
-- Aims to create interfaces that are intuitive, efficient, and accessible to a diverse user base.
-- Involves methods like user testing, prototyping, and iterative design for continuous improvement.
+- Create interfaces that are intuitive, efficient, and accessible to diverse users.
+- Involves methods like user testing, prototyping, and iterative design.
 - User-centered design to make technology more adaptable and responsive to human needs.
 
 ## Core UI/UX & HCI Principles
