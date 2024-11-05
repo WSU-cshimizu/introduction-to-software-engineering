@@ -46,6 +46,14 @@ These are very intertwined, as the design and implementation of a _user interfac
    - **Interaction Design**: Discuss design patterns that improve interaction (navigation, layout, etc.).
 
 ## UI/UX/HCI Assessment Frameworks
+When it comes to design there are a few evaluation tecniques we can ensure that we following the rules of the UX Honeycomb.
+1. Systematic Human Error Reduction and Prediction Approach (SHERPA). SHERPA emphasizes the developer to consider user needs and optimize functionality across various platforms. They use a methodical design process called hierarchical analysis that involves breaking down a task into sub-task to make sure that by the end goal any forseeable error in the function is caught.
+  - [Resource Link](https://core.ac.uk/download/pdf/334415.pdf)
+2. The System Usability Scale (SUS): Created by John Brooke, the SUS has been tried and tested over almost 30 years of use. Constructed similar to a Likert scale, the SUS has 10 questions that refer to the end product, and users will then rate the agreeability to these question on a scale of 1-5: 1 being 'disagree' and 5 being 'agree.'' Then, through a very simple calculation, you can obtain the SUS score. This can help a developer identify where there design might be weak allowing for a more precise fix.
+  - https://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/
+  - https://www.interaction-design.org/literature/article/system-usability-scale
+3. A cognitive walkthrough: This is a simple technique that is used to aid in understadn the learnability of a system to a new user. Essential this allows for a reviewer(s) to walk thorugh a task and provide feedback based on their presective of a new users. This is a cheap way to take an object look at the product to ensure that it is user friendly to all users.
+  - https://www.nngroup.com/articles/cognitive-walkthroughs/
 
 ## Some References
 * https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
