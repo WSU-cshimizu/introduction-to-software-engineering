@@ -38,12 +38,12 @@ These are very intertwined, as the design and implementation of a _user interfac
 
 ## Core UI/UX & HCI Principles
 - **Usability**: Definition and components (effectiveness, efficiency, satisfaction).
-- **User-Centered Design (UCD)**: Emphasize user involvement in the design process.
+- **User-Centered Design (UCD)**: Emphasis of user involvement in the design process.
 - **Affordance & Signifiers**: Elements that make UI interactions intuitive.
-- **Feedback & Visibility**: Highlight the importance of providing users with cues about system status.
-- **Accessibility**: Overview of designing for diverse users (e.g., color contrast, screen readers).
-- **Consistency**: Importance of uniform design across the application.
-- **Interaction Design**: Discuss design patterns that improve interaction (navigation, layout, etc.).
+- **Feedback & Visibility**: Providing users with cues about system status.
+- **Accessibility**: Designing for diverse users (e.g., color contrast, screen readers).
+- **Consistency**: Uniform design across the application.
+- **Interaction Design**: Consistent use of well-known patterns that improve interaction (navigation, layout, etc.).
 
 ## UI/UX/HCI Assessment Frameworks
 When it comes to design there are a few evaluation tecniques we can ensure that we following the rules of the UX Honeycomb.
